@@ -1,5 +1,5 @@
 ## Python
- Testes de Python feitos durante as aulas do [Curso em Vídeo](https://www.cursoemvideo.com/) A01 até A010
+ Testes de Python feitos durante as aulas do [Curso em Vídeo](https://www.cursoemvideo.com/)  A01 até A010
  ##
 📌  Aula 1 até a Aula 5 (conhecendo a linguagem).
 ##
