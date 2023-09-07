@@ -12,7 +12,7 @@
 
         <div class="metanav">
         {% if not session.logado %}
-            <a href="">Login</a>
+            <a href="{{ url_for('login') }}">Login</a>
         {% else %}
             <a href="">Logout</a>
         {% endif %}
