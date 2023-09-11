@@ -4,6 +4,8 @@ from posts import posts
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'pudim'
 
+app.config.from_object(__name__)
+
 @app.route('/')
 def exibir_entradas():
     entradas = posts[::-1] # Mock das postagens
